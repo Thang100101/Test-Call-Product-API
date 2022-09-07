@@ -1,0 +1,18 @@
+{
+    "products":[
+        {
+            "id" : 0,
+            "name": "Rau diếp",
+            "barcode": "8938505691121",
+            "isExpired": false,
+            "phone": "0334188633",
+            "address": "Q.12 HCMC",
+            "vietGapCode": "VG072186",
+            "date": "7/9/2022",
+            "technicality": "ashodoasd",
+            "environment": "aweqwe",
+            "origin": "awewe"
+        
+        }
+    ]
+}
